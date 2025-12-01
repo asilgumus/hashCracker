@@ -13,7 +13,7 @@ a simple sha-256 hash cracking tool. the project includes two main components:
 
 ---
 
-## 🔧 how it works
+## how it works
 
 ### 1. creating a wordlist (optional)
 
@@ -42,7 +42,7 @@ it hashes each word from the wordlist and compares it.
 
 ---
 
-## 📁 project structure
+## project structure
 
 /hashCracker
 ├── Program.cs -> main hash cracker
@@ -52,7 +52,7 @@ it hashes each word from the wordlist and compares it.
 
 ---
 
-## ▶️ usage
+## usage
 
 1. build and run the project  
 2. choose whether to generate a new wordlist  
@@ -61,7 +61,7 @@ it hashes each word from the wordlist and compares it.
 
 ---
 
-## 📌 notes
+## notes
 
 - the wordlist file **must** be named `wordlist.txt`  
 - supported characters for generation: `a-z` and `0-9`  
@@ -69,6 +69,6 @@ it hashes each word from the wordlist and compares it.
 
 ---
 
-## 📜 license
+## license
 
 this tool is for educational purposes only. MIT LICENSE
