@@ -1,4 +1,4 @@
-![](https://tenor.com/rxYzk2yBTrJ.gif)
+![](https://media1.tenor.com/m/ynuvCagAWN0AAAAd/hshs.gif)
 
 ## ⚠️ disclaimer
 
