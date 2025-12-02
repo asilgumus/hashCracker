@@ -1,3 +1,5 @@
+![](https://tenor.com/tr/view/squinting-skeptical-futurama-gif-14582715115319205829)
+
 ## ⚠️ disclaimer
 
 this tool is intended **for educational and testing purposes only**.  
