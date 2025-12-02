@@ -1,4 +1,4 @@
-![]([https://tenor.com/tr/view/squinting-skeptical-futurama-gif-14582715115319205829](https://tenor.com/tr/view/squinting-skeptical-futurama-gif-14582715115319205829)) </br
+![](https://tenor.com/tr/view/squinting-skeptical-futurama-gif-14582715115319205829) </br
 
 ![](https://media1.tenor.com/images/06dada22862b4d6a2635236aa80d38f0/tenor.gif?itemid=4840096) </br>
 
