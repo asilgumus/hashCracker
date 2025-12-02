@@ -1,4 +1,4 @@
-![](https://tenor.com/tr/view/squinting-skeptical-futurama-gif-14582715115319205829)
+![](https://tenor.com/tr/view/hshs-gif-14590447873805015261)
 
 
 ## ⚠️ disclaimer
