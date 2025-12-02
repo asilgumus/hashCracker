@@ -1,5 +1,4 @@
-![](https://tenor.com/tr/view/hshs-gif-14590447873805015261)
-<div class="tenor-gif-embed" data-postid="14590447873805015261" data-share-method="host" data-aspect-ratio="1.5" data-width="100%"><a href="https://tenor.com/view/hshs-gif-14590447873805015261">Hshs Meme</a>from <a href="https://tenor.com/search/hshs-memes">Hshs Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](https://tenor.com/rxYzk2yBTrJ.gif)
 
 ## ⚠️ disclaimer
 
