@@ -1,6 +1,6 @@
 ![](https://media1.tenor.com/m/ynuvCagAWN0AAAAd/hshs.gif)
 
-## ⚠️ disclaimer
+# ⚠️ disclaimer
 
 this tool is intended **for educational and testing purposes only**.  
 do **not** use it for any unauthorized access, password cracking, or activity that violates privacy, laws, or security policies.  
