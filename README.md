@@ -46,11 +46,12 @@ it hashes each word from the wordlist and compares it.
 
 ## project structure
 
-/hashCracker
-├── Program.cs -> main hash cracker
-├── createWordlist.cs -> optional wordlist generator
-├── wordlist.txt -> your wordlist file (auto or manual)
-└── README.md
+  `/hashCracker
+  ├── Program.cs -> main hash cracker
+  ├── createWordlist.cs -> optional wordlist generator
+  ├── wordlist.txt -> your wordlist file (auto or manual)
+  └── README.md
+  `
 
 ---
 
